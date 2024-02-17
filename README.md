@@ -9,13 +9,13 @@
 ### Projects
 
 #### Multi Stock Return Forecasting
-![stock](/assets/imgs/stock2.jfif)
+<!--- ![stock](/assets/imgs/stock2.jfif) --->
 <img src="/assets/imgs/stock2.jfif" width="400">
 [Notebook](https://github.com/eydeyoung/Multistock_Predictive_Analytics)
 Filler
 
 #### Salary Level Analysis in the Data Science Community
-![salary](/assets/imgs/Salary Divide.jfif)
+<!--- ![salary](/assets/imgs/Salary Divide.jfif) --->
 <img src="/assets/imgs/Salary Divide.jfif" width="400">
 [Notebook](https://github.com/eydeyoung/salary-comparison)
 Filler
@@ -26,7 +26,7 @@ Filler
 Filler
 
 #### Comparison of Nonlinear Optimization Algorithms
-![stock](/assets/imgs/stock2.jfif)
+<!--- ![stock](/assets/imgs/stock2.jfif) --->
 <img src="/assets/imgs/stock2.jfif" width="400">
 Filler  
 
