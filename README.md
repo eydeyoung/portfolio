@@ -9,7 +9,7 @@
 ### Projects
 
 #### Multi Stock Return Forecasting
-<img src="/assets/imgs/stock2.jfif" width="400">
+[test]<img src="/assets/imgs/stock2.jfif" width="400">
 [Notebook](https://github.com/eydeyoung/Multistock_Predictive_Analytics)
 Filler
 
