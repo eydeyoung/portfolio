@@ -14,28 +14,28 @@
 Filler
 
 #### Salary Level Analysis in the Data Science Community
-<img src="/assets/imgs/Salary Divide.jfif" height="250">
+<img src="./assets/imgs/Salary Divide.jfif" height="250">
 [Notebook](https://github.com/eydeyoung/salary-comparison)
 Filler
 
 #### Implementation of Linear Programming Algorithms Applied to Stochastic Farming Problem
-![stock](/assets/imgs/Farming_Problem_2.jfif)
+![stock](./assets/imgs/Farming_Problem_2.jfif)
 <img src="/assets/imgs/Farming_Problem_2.jfif" height="250">
 Filler
 
 #### Comparison of Nonlinear Optimization Algorithms
 <!--- ![stock](/assets/imgs/stock2.jfif) --->
-<img src="/assets/imgs/stock2.jfif" height="250">
+<img src="./assets/imgs/stock2.jfif" height="250">
 Filler  
 
 #### Robust MVO application to SPY
 ![stock](/assets/imgs/stock1.jfif)
-<img src="/assets/imgs/stock1.jfif" height="250">
+<img src="./assets/imgs/stock1.jfif" height="250">
 Filler  
 
 #### Sentiment Analysis of Ukraine Russia War
 ![stock](/assets/imgs/Ukraine-Russia-War.JPG)
-<img src="/assets/imgs/Ukraine-Russia-War.JPG" height="250">
+<img src="./assets/imgs/Ukraine-Russia-War.JPG" height="250">
 
 
 
