@@ -14,7 +14,7 @@
 Filler
 
 #### Salary Level Analysis in the Data Science Community
-<img src="./assets/imgs/Salary Divide.jfif" height="250">
+[test2]<img src="./assets/imgs/Salary Divide.jfif" height="250">
 [Notebook](https://github.com/eydeyoung/salary-comparison)
 Filler
 
@@ -29,13 +29,13 @@ Filler
 Filler  
 
 #### Robust MVO application to SPY
-![stock](/assets/imgs/stock1.jfif)
-<img src="./assets/imgs/stock1.jfif" height="250">
+<!--- ![stock](/assets/imgs/stock1.jfif) --->
+[test3]<img src="./assets/imgs/stock1.jfif" height="250">
 Filler  
 
 #### Sentiment Analysis of Ukraine Russia War
-![stock](/assets/imgs/Ukraine-Russia-War.JPG)
-<img src="./assets/imgs/Ukraine-Russia-War.JPG" height="250">
+<!---![stock](/assets/imgs/Ukraine-Russia-War.JPG)--->
+[test4] <img src="./assets/imgs/Ukraine-Russia-War.JPG" height="250">
 
 
 
