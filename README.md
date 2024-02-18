@@ -9,33 +9,31 @@
 ### Projects
 
 #### Multi Stock Return Forecasting
-<div><img src="https://github.com/eydeyoung/portfolio/blob/main/assets/imgs/stock1.jfif" width="400"></div>
+![stock](/assets/imgs/stock.jfif)
 [Notebook](https://github.com/eydeyoung/Multistock_Predictive_Analytics)
 Filler
 
 #### Salary Level Analysis in the Data Science Community
-[test2]<img src="https://github.com/eydeyoung/portfolio/blob/main/assets/imgs/Salary Divide.jfif" height="250">
+![salary](/assets/imgs/salary.jfif)
 [Notebook](https://github.com/eydeyoung/salary-comparison)
 Filler
 
 #### Implementation of Linear Programming Algorithms Applied to Stochastic Farming Problem
-![stock](./assets/imgs/Farming_Problem_2.jfif)
+![farming](./assets/imgs/farming.jfif)
 <img src="/assets/imgs/Farming_Problem_2.jfif" height="250">
 Filler
 
 #### Comparison of Nonlinear Optimization Algorithms
-<!--- ![stock](/assets/imgs/stock2.jfif) --->
-<img src="./assets/imgs/stock2.jfif" height="250">
 Filler  
 
 #### Robust MVO application to SPY
-<!--- ![stock](/assets/imgs/stock1.jfif) --->
-[test3]<img src="./assets/imgs/stock1.jfif" height="250">
+![stock](/assets/imgs/stock.jfif)
 Filler  
 
 #### Sentiment Analysis of Ukraine Russia War
-<!---![stock](/assets/imgs/Ukraine-Russia-War.JPG)--->
-[test4] <img src="./assets/imgs/Ukraine-Russia-War.JPG" height="250">
+![war](/assets/imgs/Ukraine-Russia-War.JPG)
+Filler
+
 
 
 
