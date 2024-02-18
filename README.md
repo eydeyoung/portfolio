@@ -9,12 +9,12 @@
 ### Projects
 
 #### Multi Stock Return Forecasting
-[test]<img src="https://github.com/eydeyoung/portfolio/blob/main/assets/imgs/stock1.jfif" width="400">
+<div><img src="https://github.com/eydeyoung/portfolio/blob/main/assets/imgs/stock1.jfif" width="400"></div>
 [Notebook](https://github.com/eydeyoung/Multistock_Predictive_Analytics)
 Filler
 
 #### Salary Level Analysis in the Data Science Community
-[test2]<img src="(https://github.com/eydeyoung/portfolio/blob/main/assets/imgs/Salary%20Divide.jfif)" height="250">
+[test2]<img src="https://github.com/eydeyoung/portfolio/blob/main/assets/imgs/Salary Divide.jfif" height="250">
 [Notebook](https://github.com/eydeyoung/salary-comparison)
 Filler
 
