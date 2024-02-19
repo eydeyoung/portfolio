@@ -23,7 +23,7 @@ Performed statistical analysis of salary levels in the Kaggle data science commu
 
 
 #### AI Motivated Curriculum Development
-![school](./assets/imgs/course.JPG)
+![school](./assets/imgs/course.JPG)  
 [Repository]((https://github.com/eydeyoung/AI_Motivated_Curriculum_Development))  
 
 Webscrapped job postings and generated skills using chatGPT in order to cluster skills to generate a career curriculum that is more relevant to current job openings.
