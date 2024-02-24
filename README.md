@@ -3,10 +3,10 @@
 ##### Technical Skills: Python, SQL, Microsoft Azure, Databricks, Excel, MATLAB, C++ 
 
 ### Education
-| | |
+| | 
 ------
-| MEng, Analytics, Financial Engineering Certificate   | *Univeristy of Toronto* (Nov 2023)|
-| BASc, Mechanical Engineering                         | *Univeristy of Toronto* (June 2017)|
+| MEng, Analytics, Financial Engineering Certificate   | *Univeristy of Toronto* (Nov 2023)
+| BASc, Mechanical Engineering                         | *Univeristy of Toronto* (June 2017)
 
 ### Projects
 
