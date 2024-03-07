@@ -1,5 +1,5 @@
 title: Edem de Youngster
-logo: "/assets/imgs/stacked_badge_profile.JPG"
+logo: /assets/imgs/stacked_badge_profile.JPG
 # description: description
 markdown: GFM # Set to use github.com markdown rendered in github.io
 remote_theme: pages-themes/time-machine@v0.2.0
